@@ -12,7 +12,7 @@ GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具�
 -   一套和正则表达式接近的语法用来匹配和替换代码
 //添加一行代码
 
-//分支brabch-ldm2操作 12345
+//分支brabch-ldm2操作 12345 456
 
 来 [GoGoCode.io](https://gogocode.io) 了解更多
 

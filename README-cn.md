@@ -1,8 +1,8 @@
 <!--
  * @Author: your name
  * @Date: 2022-04-21 18:17:33
- * @LastEditTime: 2022-04-22 17:53:54
- * @LastEditors: your name
+ * @LastEditTime: 2022-04-22 18:01:35
+ * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \gogocode\README-cn.md
 -->
@@ -18,7 +18,9 @@ GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具�
 
 -   一套类 Jquery 的 API 用来查找和处理 AST
 -   一套和正则表达式接近的语法用来匹配和替换代码
-认为人
+//添加一行代码
+
+//分支brabch-ldm2操作 12345 456
 
 来 [GoGoCode.io](https://gogocode.io) 了解更多
 
